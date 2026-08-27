@@ -4,12 +4,14 @@ BPA-Diff: Bidirectional Periodicity-Aware Diffusion for Tileable Texture Generat
 
 ## Qualitive Results
 <img width="2036" height="1476" alt="可视化比较" src="https://github.com/user-attachments/assets/0264aa5d-f23c-4750-a96f-2eacf10dfc36" />
-More generation results:
-<img width="1280" height="720" alt="4x4大图" src="https://github.com/user-attachments/assets/b0f8f2ca-d183-44f4-a52f-b42a9730f053" />
-<img width="879" height="720" alt="8x8大图1" src="https://github.com/user-attachments/assets/180339bb-2a7d-4d23-b9eb-1567086a338f" />
-<img width="1054" height="720" alt="8x8大图2" src="https://github.com/user-attachments/assets/2cdb96e1-49f9-4d50-8348-69b2d9e4de1d" />
-<img width="914" height="720" alt="8x8大图3" src="https://github.com/user-attachments/assets/e07df64f-6979-4dad-b205-f9eff398794a" />
-<img width="896" height="720" alt="8x8大图4" src="https://github.com/user-attachments/assets/839eb927-ef0c-41dc-a8fb-2ad6d0b236ce" />
+## More Generation Results
+## 4x4 Tiling Results:
+<img width="1280" height="720" alt="幻灯片1" src="https://github.com/user-attachments/assets/39ccf267-73f4-4826-890e-562921623b0d" />
+## 8x8 Tiling Results:
+<img width="847" height="720" alt="幻灯片4" src="https://github.com/user-attachments/assets/319803db-161d-457d-bf46-f560e190cb8f" />
+<img width="847" height="720" alt="幻灯片5" src="https://github.com/user-attachments/assets/f3f80b92-bfab-4efb-9d19-97db492b3afa" />
+<img width="851" height="720" alt="幻灯片3" src="https://github.com/user-attachments/assets/ae758008-6181-432c-9752-90f1bba5d013" />
+<img width="851" height="720" alt="幻灯片2" src="https://github.com/user-attachments/assets/2d3b9c39-c8ab-4894-aa2b-e99d39e919bc" />
 
 ## Quantitative Results
 <img width="1280" height="773" alt="ScreenShot_2026-08-26_204048_123" src="https://github.com/user-attachments/assets/4c8679fb-9e8c-490d-92c0-8d354d421db8" />
