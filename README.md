@@ -22,7 +22,7 @@ BPA-Diff: Bidirectional Periodicity-Aware Diffusion for Tileable Texture Generat
 
 <img width="1280" height="773" alt="ScreenShot_2026-08-26_204048_123" src="https://github.com/user-attachments/assets/4c8679fb-9e8c-490d-92c0-8d354d421db8" />
 
-## Generalization Performance
+## Generalization Performance on DTD Dataset
 
 <img width="1280" height="1329" alt="DTD-visualize" src="https://github.com/user-attachments/assets/579818c9-16e3-495a-8dd7-67c942158356" />
 
