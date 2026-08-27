@@ -7,7 +7,7 @@ BPA-Diff: Bidirectional Periodicity-Aware Diffusion for Tileable Texture Generat
 ## More Generation Results
 ## 4x4 Tiling Results:
 <img width="1280" height="720" alt="幻灯片1" src="https://github.com/user-attachments/assets/39ccf267-73f4-4826-890e-562921623b0d" />
-## 8x8 Tiling Results:
+## 8x8 Tiling Results
 <img width="847" height="720" alt="幻灯片4" src="https://github.com/user-attachments/assets/319803db-161d-457d-bf46-f560e190cb8f" />
 <img width="847" height="720" alt="幻灯片5" src="https://github.com/user-attachments/assets/f3f80b92-bfab-4efb-9d19-97db492b3afa" />
 <img width="851" height="720" alt="幻灯片3" src="https://github.com/user-attachments/assets/ae758008-6181-432c-9752-90f1bba5d013" />
