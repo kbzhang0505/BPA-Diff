@@ -7,7 +7,10 @@ the overall distribution consistency of the generated texture. The generated
 textures are visualized in a 3×3 tiled layout.
 <img width="1339" height="684" alt="ScreenShot_2026-10-25_110048_593" src="https://github.com/user-attachments/assets/cb03fc91-c619-4ff0-a9a2-22a8602b32ba" />
 
-We introduce a Bidirectional Periodicity-Aware Attention (BPAA) module that establishes mutual correspondence between paired periodic boundaries, enabling explicit modeling of latent periodic structures and crossboundary continuity without relying on heuristic boundary constraints during inference.
+## More Generation Results
+
+We introduce a Bidirectional Periodicity-Aware Attention (BPAA) module that establishes mutual correspondence between paired periodic boundaries, enabling explicit modeling of latent periodic structures and crossboundary continuity without relying on heuristic boundary constraints during inference.
+
 ## Qualitive Results
 <img width="2036" height="1476" alt="可视化比较" src="https://github.com/user-attachments/assets/0264aa5d-f23c-4750-a96f-2eacf10dfc36" />
 
