@@ -1,7 +1,6 @@
 # BPA-Diff
 BPA-Diff: Bidirectional Periodicity-Aware Diffusion for Tileable Texture Generation
-## The Overall Framework
-<img width="1174" height="512" alt="Pipeline-new-1" src="https://github.com/user-attachments/assets/4dd122a1-7c3a-415b-b5b6-084a191b4f91" />
+
 
 ## Qualitive Results
 <img width="2036" height="1476" alt="可视化比较" src="https://github.com/user-attachments/assets/0264aa5d-f23c-4750-a96f-2eacf10dfc36" />
